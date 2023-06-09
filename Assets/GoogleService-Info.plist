@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>326406927879-62gehvf3cn7aq22g9c8q3ndc7q2kqujh.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.326406927879-62gehvf3cn7aq22g9c8q3ndc7q2kqujh</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>326406927879-c0tsjac6ipqrrpbqri9kqacrage3lfln.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBmt10N26k3NwcWnu6haTmDtvEuLa9y62M</string>
+	<key>GCM_SENDER_ID</key>
+	<string>326406927879</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.dodamgames.ios.jewelsadventure</string>
+	<key>PROJECT_ID</key>
+	<string>jewels-adventure-46764350</string>
+	<key>STORAGE_BUCKET</key>
+	<string>jewels-adventure-46764350.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:326406927879:ios:093deb241d24959e1c5ca2</string>
+	<key>ADMOB_APP_ID</key>
+	<string>ca-app-pub-3636561524673964~6970894656</string>
+</dict>
+</plist>

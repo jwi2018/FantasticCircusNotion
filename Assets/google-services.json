@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1062592104054",
+    "project_id": "fantastic-circus",
+    "storage_bucket": "fantastic-circus.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1062592104054:android:2bab8982bb1a1172fb4157",
+        "android_client_info": {
+          "package_name": "com.icecube.fantasticcircus.android.free.puzzle"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1062592104054-6qricevo0hg62qstudjbh1uh8jd0qcei.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSo4pTdw2G3xcXUmhUbBVlxyIa3yS0zQU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1062592104054-6qricevo0hg62qstudjbh1uh8jd0qcei.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1062592104054-e0b9r3i8qbsgletnirj8pd7dluu332lm.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.icecube.fantasticcircus.appstore.free.puzzle"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

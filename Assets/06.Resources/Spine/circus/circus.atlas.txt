@@ -1,0 +1,48 @@
+circus.png
+size:757,396
+filter:Linear,Linear
+pma:true
+scale:0.5
+black hat
+bounds:159,3,115,160
+rotate:90
+body
+bounds:351,152,242,373
+rotate:90
+close eyes_L
+bounds:726,269,32,21
+offsets:1,1,35,22
+rotate:90
+close eyes_R
+bounds:726,349,45,26
+offsets:1,0,46,27
+rotate:90
+face
+bounds:488,29,121,132
+offsets:0,3,121,135
+rotate:90
+fold arms
+bounds:2,2,116,155
+offsets:0,0,117,155
+rotate:90
+gum
+bounds:622,6,69,61
+offsets:1,0,70,61
+hammer
+bounds:2,120,347,274
+offsets:1,1,348,276
+open eyes_L
+bounds:726,234,33,20
+offsets:0,0,34,20
+rotate:90
+open eyes_R
+bounds:726,303,44,24
+offsets:1,0,45,25
+rotate:90
+red hat
+bounds:351,26,124,135
+offsets:0,1,125,136
+rotate:90
+shoulder
+bounds:622,69,133,81
+offsets:0,0,137,81

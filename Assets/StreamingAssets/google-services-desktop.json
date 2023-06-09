@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "326406927879",
+    "project_id": "jewels-adventure-46764350",
+    "storage_bucket": "jewels-adventure-46764350.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:326406927879:android:a603f838a5fa56cd1c5ca2",
+        "android_client_info": {
+          "package_name": "com.dodamgames.aos.jewelsadventure"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "326406927879-5pu793k4otvo10m4kec2fi3tf03ctav7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfhPtEHJdgQjhko3rddJmPRQ-AGy1FRrw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "326406927879-5pu793k4otvo10m4kec2fi3tf03ctav7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "326406927879-62gehvf3cn7aq22g9c8q3ndc7q2kqujh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.dodamgames.ios.jewelsadventure"
+              }
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-3636561524673964~9158074295"
+    }
+  ],
+  "configuration_version": "1"
+}
